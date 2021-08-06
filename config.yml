@@ -138,7 +138,7 @@ params:
     - name: Los Angeles
       description: "LAX1"
       category: "Filtering: North American Anycast"
-    - name: DAllas
+    - name: Dallas
       description: "DAL1"
       category: "Filtering: North American Anycast"
     - name: Ashburn
