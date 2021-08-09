@@ -15,4 +15,6 @@ affected:
   - miami
 severity: notice
 ---
-Anouncement - Network maintenance is going to be effectuated, disconnections are possible
+Network maintenance finished
+
+Network maintenance is going to be effectuated, disconnections are possible
