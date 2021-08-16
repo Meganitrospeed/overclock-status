@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Gaming Panel unavailble
+title: Gaming Panel Unavailable
 date: 2021-08-16T23:44:20.731Z
 resolved: true
 draft: false
