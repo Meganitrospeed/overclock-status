@@ -6,6 +6,13 @@ resolved: true
 draft: false
 informational: false
 resolvedWhen: 2021-08-16T23:44:20.918Z
+affected:
+  - los-angeles
+  - dallas
+  - ashburn
+  - london
+  - amsterdam
+  - miami
 severity: disrupted
 ---
 *Solution - We have disabled the re-enabled Argo tunnels, everything appears to be normalized, backend nodes might take a bit more to reconnect to the panel*
