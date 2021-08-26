@@ -15,4 +15,6 @@ affected:
   - miami
 severity: disrupted
 ---
+Current Action - We have traced down the issue and have technicians working on recovering the infraestructure
+
 *Investigating* - We are investigating a potential issue that might have affected routing during our deployment, no downtime was expected
