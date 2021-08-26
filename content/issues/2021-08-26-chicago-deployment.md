@@ -5,7 +5,7 @@ date: 2021-08-26T21:15:36.218Z
 resolved: true
 draft: false
 informational: false
-resolvedWhen: 2021-08-26T21:15:36.251Z
+resolvedWhen: 2021-08-26T22:28:12.321Z
 affected:
   - los-angeles
   - dallas
