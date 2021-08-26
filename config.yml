@@ -147,6 +147,10 @@ params:
     - name: Miami
       description: "MIM1"
       category: "Filtering: North American Anycast"
+    - name: Chicago
+      description: "CHI1"
+      category: "Filtering: North American Anycast"
+      
 
     # Europe
     - name: Amsterdam
